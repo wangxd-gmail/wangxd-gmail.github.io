@@ -1,3 +1,11 @@
+#  Wang Xiaodong · Fuzhou University
+
+This project is Professor Wang Xiaodong's personal academic webpage, featuring a simple and steady academic style, suitable for GitHub Pages or personal academic showcases. The page clearly presents Professor Wang Xiaodong's personal profile, research interests, academic achievements, and honors.
+
+<div align="center">
+    <img src="./img/office02.webp" alt="Page Preview" width="70%">
+</div>
+
 
 ## ✨ Page Features
 
